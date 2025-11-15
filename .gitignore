@@ -1,0 +1,9 @@
+# ignore temporary and large files created during workspace run
+/tmp/
+tmp/
+*.raw
+*.raw.gz
+*.img
+/opt/
+target/
+**/target/

@@ -1,0 +1,5 @@
+[package]
+authors = ["The Cloud Hypervisor Authors"]
+edition.workspace = true
+name = "serial_buffer"
+version = "0.1.0"

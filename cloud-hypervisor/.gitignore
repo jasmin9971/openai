@@ -1,0 +1,10 @@
+/build
+/.cargo
+/target
+**/*.rs.bk
+**/Cargo.lock
+**/rusty-tags.vi
+/rpm/SOURCES
+/.vscode
+/vendor
+__pycache__
